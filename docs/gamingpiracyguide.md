@@ -768,6 +768,7 @@
 * [Pixletters](https://pixletters.com/) - Pixel Style Wordle
 * [Wourdle](https://wourdle.com/) - British English Wordle
 * [Ridella](https://ridella.xyz/) - Riddle Wordle
+* [Wordle Today](https://wordletoday.us/) - Play Free Wordle
 
 ***
 
